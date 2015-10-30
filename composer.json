@@ -1,5 +1,5 @@
 {
-    "name": "benmag/plivo",
+    "name": "benmag/notifyme-plivo",
     "version": "1.0.0",
     "description": "Provides a plivo gateway for NotifyMe",
     "license": "MIT",
